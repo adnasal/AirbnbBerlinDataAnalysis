@@ -1,0 +1,4 @@
+In order to run the code efficiently,
+
+- all the libraries imported should be previously installed,
+- when reading files, path should be changed to the location where the .csv files are stored.
